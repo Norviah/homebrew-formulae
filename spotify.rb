@@ -6,7 +6,7 @@ class Spotify < Formula
   version "v1.0.0"
   url "https://github.com/norviah/spotify/archive/#{version}.tar.gz"
 
-  sha256 "7599256aabeec6da165e6dcf19ed876da97d53fc4e4d103b98c9f1745776064b"
+  sha256 "91318f717fbba0081ea25c268e74d5b4024d89ec5587f77a80ae42804443cf3d"
 
   depends_on :macos => :sierra
 
