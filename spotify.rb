@@ -3,10 +3,10 @@ class Spotify < Formula
   homepage "https://github.com/Norviah/spotify"
   head "https://github.com/Norviah/spotify.git"
 
-  version "v1.0.0"
+  version "v1.1.1"
   url "https://github.com/norviah/spotify/archive/#{version}.tar.gz"
 
-  sha256 "91318f717fbba0081ea25c268e74d5b4024d89ec5587f77a80ae42804443cf3d"
+  sha256 "4332c69c8d5da9330083448d938c9422504a7a90e446a30a6a075be0e5ef0df1"
 
   depends_on :macos => :sierra
 
